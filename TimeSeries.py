@@ -208,4 +208,7 @@ plt.plot(predictions_ARIMA)
 results_ARIMA.plot_predict(1,264)
 
 # forecasts value for next 120 periods
-x=results_ARIMA.forecast(steps=120)
+x=results_ARIMA.forecast(steps=120
+
+
+#testing 3
